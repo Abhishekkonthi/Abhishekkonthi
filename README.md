@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishekkonthi
 - 👀 I’m interested in ...jobs
-- 🌱 I’m currently learning ... embedded systems 
-- 💞️ I’m looking to collaborate on ... embedded software engineer 
+- 🌱 I’m currently learning ... data analyst 
+- 💞️ I’m looking to collaborate on ... data analyst
 - 📫 How to reach me ... through email 
 - 😄 Pronouns: ...he/him
 
