@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishekkonthi
+- 👋 Hi, I’m @Abhishek B R
 - 👀 I’m interested in ...jobs
 - 🌱 I’m currently learning ... data analyst 
 - 💞️ I’m looking to collaborate on ... data analyst
